@@ -1,7 +1,7 @@
 strain	virus	isolate_id	date	region	country	division	location	host	domestic_status	subtype	originating_lab	submitting_lab	authors	PMID	gisaid_clade	h5_clade	h5_label_clade
 A/Cattle/USA/24-010354-016-original-300/2024	avian_flu	SRR28752542	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009029-001-original/2024	avian_flu	SRR28752455	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-009116-002-original/2024	avian_flu	SRR28752513	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-009116-002-original/2024	avian_flu	SRR28752513	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009309-001-original/2024	avian_flu	SRR28752674	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009087-001-original/2024	avian_flu	SRR28752454	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010330-011-original-300/2024	avian_flu	SRR28752626	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -13,7 +13,7 @@ A/Cattle/USA/24-009290-001-original/2024	avian_flu	SRR28752510	2024-XX-XX	North 
 A/Cattle/USA/24-009109-007-original/2024	avian_flu	SRR28752608	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010514-002-original/2024	avian_flu	SRR28752529	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008767-001-v/2024	avian_flu	SRR28752475	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-008355-004-original/2024	avian_flu	SRR28752682	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-008355-004-original/2024	avian_flu	SRR28752682	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009491-006-original/2024	avian_flu	SRR28752579	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009088-001-original/2024	avian_flu	SRR28752453	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010071-010-original/2024	avian_flu	SRR28752480	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -31,11 +31,11 @@ A/Cattle/USA/24-009497-012-original/2024	avian_flu	SRR28752557	2024-XX-XX	North 
 A/Cattle/USA/24-009110-005-original/2024	avian_flu	SRR28752601	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009309-004-original/2024	avian_flu	SRR28752672	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-002-original/2024	avian_flu	SRR28752663	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-008764-001-original/2024	avian_flu	SRR28752524	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-008764-001-original/2024	avian_flu	SRR28752524	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009028-002-original/2024	avian_flu	SRR28752463	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010330-008-original/2024	avian_flu	SRR28752628	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-004-original/2024	avian_flu	SRR28752602	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-009116-005-original/2024	avian_flu	SRR28752511	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-009116-005-original/2024	avian_flu	SRR28752511	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010071-002-original/2024	avian_flu	SRR28752488	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009109-003-original/2024	avian_flu	SRR28752612	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-014-original/2024	avian_flu	SRR28752592	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -46,36 +46,36 @@ A/Cattle/USA/24-009586-008-original/2024	avian_flu	SRR28752500	2024-XX-XX	North 
 A/Cattle/USA/24-009497-014-original/2024	avian_flu	SRR28752556	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009775-001-original/2024	avian_flu	SRR28752494	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010513-003-original/2024	avian_flu	SRR28752533	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-009311-006-original/2024	avian_flu	SRR28752665	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-009311-006-original/2024	avian_flu	SRR28752665	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-008-original/2024	avian_flu	SRR28752551	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-004-original/2024	avian_flu	SRR28752661	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-023-original/2024	avian_flu	SRR28752518	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009776-002-original/2024	avian_flu	SRR28752492	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010330-013-original-300/2024	avian_flu	SRR28752623	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-010308-006-original-300/2024	avian_flu	SRR28752640	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-008850-001-original/2024	avian_flu	SRR28752474	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-010308-006-original-300/2024	avian_flu	SRR28752640	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-008850-001-original/2024	avian_flu	SRR28752474	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009027-001-v/2024	avian_flu	SRR28752472	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010195-001-original/2024	avian_flu	SRR28752644	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Blackbird/USA/24-008354-001-original/2024	avian_flu	SRR28752446	2024-XX-XX	North America	USA	USA	USA	Blackbird	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Blackbird/USA/24-008354-001-original/2024	avian_flu	SRR28752446	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-011-original/2024	avian_flu	SRR28752655	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-012-original/2024	avian_flu	SRR28752654	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009495-010-original/2024	avian_flu	SRR28752571	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-020-original/2024	avian_flu	SRR28752537	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010513-006-original/2024	avian_flu	SRR28752531	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009108-001-original/2024	avian_flu	SRR28752451	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-009654-001-original/2024	avian_flu	SRR28752496	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-009582-002-original/2024	avian_flu	SRR28752508	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-009654-001-original/2024	avian_flu	SRR28752496	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-009582-002-original/2024	avian_flu	SRR28752508	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009109-004-original/2024	avian_flu	SRR28752611	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009028-019-original/2024	avian_flu	SRR28752456	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-021-original/2024	avian_flu	SRR28752585	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008749-002-v/2024	avian_flu	SRR28752647	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009027-002-v/2024	avian_flu	SRR28752470	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-019-original/2024	avian_flu	SRR28752587	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-010308-012-original/2024	avian_flu	SRR28752638	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-010308-012-original/2024	avian_flu	SRR28752638	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008749-005-original/2024	avian_flu	SRR28752538	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-010308-007-original/2024	avian_flu	SRR28752639	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Grackle/USA/24-008356-001-original/2024	avian_flu	SRR28752649	2024-XX-XX	North America	USA	USA	USA	Grackle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Goose/USA/23-038138-001-original/2024	avian_flu	SRR28752684	2024-XX-XX	North America	USA	USA	USA	Goose	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-010308-007-original/2024	avian_flu	SRR28752639	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Grackle/USA/24-008356-001-original/2024	avian_flu	SRR28752649	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Goose/USA/23-038138-001-original/2024	avian_flu	SRR28752684	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009491-002-original/2024	avian_flu	SRR28752582	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009495-001-original/2024	avian_flu	SRR28752577	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010303-002-original/2024	avian_flu	SRR28752642	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -83,11 +83,11 @@ A/Cattle/USA/24-009776-001-original/2024	avian_flu	SRR28752493	2024-XX-XX	North 
 A/Cattle/USA/24-009028-001-original/2024	avian_flu	SRR28752464	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009108-006-original/2024	avian_flu	SRR28752616	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009310-005-original/2024	avian_flu	SRR28752670	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-009654-004-original/2024	avian_flu	SRR28752495	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-009654-004-original/2024	avian_flu	SRR28752495	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010071-006-original/2024	avian_flu	SRR28752484	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-008355-003-original/2024	avian_flu	SRR28752520	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-008355-003-original/2024	avian_flu	SRR28752520	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-009-original/2024	avian_flu	SRR28752657	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/PEFA/USA/24-005915-001-original/2024	avian_flu	SRR28752636	2024-XX-XX	North America	USA	USA	USA	PEFA	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/PEFA/USA/24-005915-001-original/2024	avian_flu	SRR28752636	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009028-008-original/2024	avian_flu	SRR28752459	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009586-005-original/2024	avian_flu	SRR28752503	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-018-original-300/2024	avian_flu	SRR28752540	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -95,8 +95,8 @@ A/Cattle/USA/24-009027-003-original-repeat/2024	avian_flu	SRR28752469	2024-XX-XX
 A/Cattle/USA/24-009110-008-original-repeat/2024	avian_flu	SRR28752598	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009491-005-original/2024	avian_flu	SRR28752580	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010327-003-original/2024	avian_flu	SRR28752637	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Grackle/USA/24-008356-003-original/2024	avian_flu	SRR28752574	2024-XX-XX	North America	USA	USA	USA	Grackle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Grackle/USA/24-008765-002-original/2024	avian_flu	SRR28752521	2024-XX-XX	North America	USA	USA	USA	Grackle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Grackle/USA/24-008356-003-original/2024	avian_flu	SRR28752574	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Grackle/USA/24-008765-002-original/2024	avian_flu	SRR28752521	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010330-007-original/2024	avian_flu	SRR28752629	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009495-003-original/2024	avian_flu	SRR28752575	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009586-009-original/2024	avian_flu	SRR28752499	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -105,7 +105,7 @@ A/Cattle/USA/24-009367-001-original/2024	avian_flu	SRR28752664	2024-XX-XX	North 
 A/Cattle/USA/24-009109-008-original/2024	avian_flu	SRR28752607	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009497-005-original/2024	avian_flu	SRR28752565	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010330-004-original-300/2024	avian_flu	SRR28752632	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-008764-002-original/2024	avian_flu	SRR28752523	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-008764-002-original/2024	avian_flu	SRR28752523	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009028-009-original/2024	avian_flu	SRR28752458	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008766-001-v/2024	avian_flu	SRR28752476	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009581-002-original/2024	avian_flu	SRR28752554	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -116,7 +116,7 @@ A/Cattle/USA/24-009110-024-original/2024	avian_flu	SRR28752517	2024-XX-XX	North 
 A/Cattle/USA/24-009310-010-original/2024	avian_flu	SRR28752667	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008766-001-original/2024	avian_flu	SRR28752477	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-005-original/2024	avian_flu	SRR28752617	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-009116-004-original/2024	avian_flu	SRR28752512	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-009116-004-original/2024	avian_flu	SRR28752512	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-017-original-300/2024	avian_flu	SRR28752541	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-027-original/2024	avian_flu	SRR28752514	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009027-004-original-repeat/2024	avian_flu	SRR28752467	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -124,7 +124,7 @@ A/Cattle/USA/24-010513-007-original/2024	avian_flu	SRR28752530	2024-XX-XX	North 
 A/Cattle/USA/24-009306-004-original/2024	avian_flu	SRR28752678	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-003-original/2024	avian_flu	SRR28752619	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010513-004-original/2024	avian_flu	SRR28752532	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-008355-001-original/2024	avian_flu	SRR28752606	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-008355-001-original/2024	avian_flu	SRR28752606	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010192-006-original/2024	avian_flu	SRR28752479	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009088-002-original/2024	avian_flu	SRR28752452	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-001-original/2024	avian_flu	SRR28752605	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -132,7 +132,7 @@ A/Cattle/USA/24-010354-011-original/2024	avian_flu	SRR28752547	2024-XX-XX	North 
 A/Cattle/USA/24-009497-008-original/2024	avian_flu	SRR28752561	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009027-002-original/2024	avian_flu	SRR28752471	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010513-002-original/2024	avian_flu	SRR28752534	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Blackbird/USA/24-008357-001-original/2024	avian_flu	SRR28752563	2024-XX-XX	North America	USA	USA	USA	Blackbird	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Blackbird/USA/24-008357-001-original/2024	avian_flu	SRR28752563	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008749-007-original/2024	avian_flu	SRR28752526	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-014-original/2024	avian_flu	SRR28752652	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009109-002-original/2024	avian_flu	SRR28752613	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -146,22 +146,22 @@ A/Cattle/USA/24-009310-007-original-repeat/2024	avian_flu	SRR28752668	2024-XX-XX
 A/Cattle/USA/24-008749-004-v/2024	avian_flu	SRR28752549	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-006-original/2024	avian_flu	SRR28752600	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009290-005-original/2024	avian_flu	SRR28752681	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-007264-003-original/2024	avian_flu	SRR28752457	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-007264-003-original/2024	avian_flu	SRR28752457	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010193-007-original/2024	avian_flu	SRR28752646	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009586-007-original/2024	avian_flu	SRR28752501	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-002-original/2024	avian_flu	SRR28752604	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009308-006-original/2024	avian_flu	SRR28752676	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-015-original-300/2024	avian_flu	SRR28752543	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008749-004-original/2024	avian_flu	SRR28752624	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-008355-005-original/2024	avian_flu	SRR28752671	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-008355-005-original/2024	avian_flu	SRR28752671	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-012-original/2024	avian_flu	SRR28752546	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009109-006-original/2024	avian_flu	SRR28752609	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-009582-001-original/2024	avian_flu	SRR28752553	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-009582-001-original/2024	avian_flu	SRR28752553	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008749-006-v/2024	avian_flu	SRR28752527	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-018-original/2024	avian_flu	SRR28752650	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-013-original/2024	avian_flu	SRR28752653	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-010482-001-original/2024	avian_flu	SRR28752536	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-010308-001-original-300/2024	avian_flu	SRR28752641	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-010482-001-original/2024	avian_flu	SRR28752536	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-010308-001-original-300/2024	avian_flu	SRR28752641	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009497-004-original/2024	avian_flu	SRR28752566	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009109-001-original/2024	avian_flu	SRR28752614	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009108-003-original/2024	avian_flu	SRR28752449	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -171,20 +171,20 @@ A/Cattle/USA/24-010354-019-original-300/2024	avian_flu	SRR28752539	2024-XX-XX	No
 A/Cattle/USA/24-009109-005-original/2024	avian_flu	SRR28752610	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-007-original/2024	avian_flu	SRR28752599	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-010-original/2024	avian_flu	SRR28752596	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-009582-003-original/2024	avian_flu	SRR28752507	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-009582-003-original/2024	avian_flu	SRR28752507	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010071-007-original/2024	avian_flu	SRR28752483	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009497-011-original/2024	avian_flu	SRR28752558	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-016-original/2024	avian_flu	SRR28752651	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-018-original/2024	avian_flu	SRR28752588	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Skunk/USA/24-006483-001-original/2024	avian_flu	SRR28752522	2024-XX-XX	North America	USA	USA	USA	Skunk	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Skunk/USA/24-006483-001-original/2024	avian_flu	SRR28752522	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-016-original/2024	avian_flu	SRR28752590	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Raccoon/USA/24-009496-002-original/2024	avian_flu	SRR28752568	2024-XX-XX	North America	USA	USA	USA	Raccoon	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Raccoon/USA/24-009496-002-original/2024	avian_flu	SRR28752568	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009028-003-original-MTM/2024	avian_flu	SRR28752462	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-002-original/2024	avian_flu	SRR28752620	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009027-010-original-repeat/2024	avian_flu	SRR28752465	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009586-006-original/2024	avian_flu	SRR28752502	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009027-005-original-MTM/2024	avian_flu	SRR28752466	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-008355-002-original/2024	avian_flu	SRR28752595	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-008355-002-original/2024	avian_flu	SRR28752595	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009309-002-original/2024	avian_flu	SRR28752673	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009586-003-original/2024	avian_flu	SRR28752504	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009306-003-original/2024	avian_flu	SRR28752679	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -195,15 +195,15 @@ A/Cattle/USA/24-008660-001-original/2024	avian_flu	SRR28752509	2024-XX-XX	North 
 A/Cattle/USA/24-009367-023-original/2024	avian_flu	SRR28752584	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009108-007-original/2024	avian_flu	SRR28752615	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-008749-008-original-repeat/2024	avian_flu	SRR28752525	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-008850-002-original/2024	avian_flu	SRR28752473	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-008850-002-original/2024	avian_flu	SRR28752473	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010354-013-original-300/2024	avian_flu	SRR28752545	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-026-original/2024	avian_flu	SRR28752515	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-003-original/2024	avian_flu	SRR28752662	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010071-001-original/2024	avian_flu	SRR28752489	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/CAGO/USA/24-003692-001-original/2024	avian_flu	SRR28752683	2024-XX-XX	North America	USA	USA	USA	CAGO	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/CAGO/USA/24-003692-001-original/2024	avian_flu	SRR28752683	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-025-original/2024	avian_flu	SRR28752516	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009367-005-original/2024	avian_flu	SRR28752659	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Cat/USA/24-009311-004-original/2024	avian_flu	SRR28752666	2024-XX-XX	North America	USA	USA	USA	Cat	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Cat/USA/24-009311-004-original/2024	avian_flu	SRR28752666	2024-XX-XX	North America	USA	USA	USA	Nonhuman Mammal	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009499-001-original/2024	avian_flu	SRR28752555	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009110-009-original/2024	avian_flu	SRR28752597	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009776-004-original/2024	avian_flu	SRR28752491	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
@@ -226,10 +226,10 @@ A/Cattle/USA/24-010512-001-original/2024	avian_flu	SRR28752535	2024-XX-XX	North 
 A/Cattle/USA/24-009310-006-original/2024	avian_flu	SRR28752669	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010194-001-original/2024	avian_flu	SRR28752645	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010303-001-original-300/2024	avian_flu	SRR28752643	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-008355-006-original/2024	avian_flu	SRR28752660	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-008355-006-original/2024	avian_flu	SRR28752660	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009495-002-original/2024	avian_flu	SRR28752576	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009497-003-original/2024	avian_flu	SRR28752567	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
-A/Chicken/USA/24-007264-001-original/2024	avian_flu	SRR28752468	2024-XX-XX	North America	USA	USA	USA	Chicken	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
+A/Chicken/USA/24-007264-001-original/2024	avian_flu	SRR28752468	2024-XX-XX	North America	USA	USA	USA	Avian	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010071-008-original/2024	avian_flu	SRR28752482	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-010330-006-original-300/2024	avian_flu	SRR28752630	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
 A/Cattle/USA/24-009491-003-original/2024	avian_flu	SRR28752581	2024-XX-XX	North America	USA	USA	USA	Cattle	?	h5n1	USDA NVSL	USDA NVSL	?	?	?	?	2.3.4.4b
